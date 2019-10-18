@@ -1,4 +1,4 @@
 # hello-world
-it is a hello world repository
+It is a hello world repository
  
- hi! this is madhav thakker.
+Hi! this is madhav thakker.
